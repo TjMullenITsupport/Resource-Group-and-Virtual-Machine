@@ -1,7 +1,6 @@
 # Resource Group and Virtual Machine in Microsoft Azure <p align="center">
 
 <img src="Microsoft_Azure-Logo.wine.png" alt="Azure logo"/>
-
 </p>
 
 <h1>Creating a Resource Group and Virtual Machine in a Virtual Envirinment (Azure)</h1>
