@@ -12,9 +12,10 @@ This tutorial outlines the process of creating a Resource Group and Virtual Mach
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machine/Computer)
 - Microsoft Remote Desktop
 - Apple MacBook Pro
+- Virtual Platform
 
 
 <h2>Operating Systems Used </h2>
