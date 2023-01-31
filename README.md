@@ -1,4 +1,4 @@
-# configure-ad<p align="center">
+# Resource Group and Virtual Machine <p align="center">
 
 </p>
 
