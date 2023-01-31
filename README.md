@@ -9,7 +9,7 @@ This tutorial outlines the process of creating a Resource Group and Virtual Mach
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Create a Virtual Machine in Microsoft Azure](https://www.youtube.com)
+- ### [YouTube: How to Create a Virtual Machine in Microsoft Azure](https://www.youtube.com/watch?v=3RfJZwnL_tM)
 
 <h2>Environments and Technologies Used</h2>
 
