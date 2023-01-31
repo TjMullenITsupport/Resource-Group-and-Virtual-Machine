@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
+<h1>Creating a Resource Group and Virtual Machine in a Virtual Envirinment (Azure)</h1>
 This tutorial outlines the process of creating a Resource Group and Virtual Machine in Microsoft Azure.<br />
 
 
