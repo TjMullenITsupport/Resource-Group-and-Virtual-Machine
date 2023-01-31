@@ -1,5 +1,7 @@
 # Resource Group and Virtual Machine in Microsoft Azure <p align="center">
 
+https://imgur.com/a/4nbXKVW
+
 </p>
 
 <h1>Creating a Resource Group and Virtual Machine in a Virtual Envirinment (Azure)</h1>
