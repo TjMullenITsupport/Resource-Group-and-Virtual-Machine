@@ -1,5 +1,5 @@
 # configure-ad<p align="center">
-![windows-azure-logo](./media/example-images/windows-azure.png)
+
 </p>
 
 <h1>Creating a Resource Group and Virtual Machine in a Virtual Envirinment (Azure)</h1>
