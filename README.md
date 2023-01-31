@@ -1,6 +1,6 @@
 # Resource Group and Virtual Machine in Microsoft Azure <p align="center">
 
-https://imgur.com/a/4nbXKVW
+<img src="https://imgur.com/a/4nbXKVW" alt="osTicket logo"/>
 
 </p>
 
